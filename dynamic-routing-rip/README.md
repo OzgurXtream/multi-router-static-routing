@@ -13,6 +13,8 @@ network 192.168.0.0
 ## 🧪 Result
 - Routes learned dynamically
 - Routing table shows "R" entries
+
+  
 TOPOLOGY MEDİA : 
 https://media.licdn.com/dms/image/v2/D4D22AQHza4uGAIuLvQ/feedshare-shrink_1280/B4DZ2ml.2pHcAM-/0/1776616468216?e=1778112000&v=beta&t=qbFtMvfRRyU47B6ovROGR8XAjKuU-X9gY57P5_r9lww
 
