@@ -16,6 +16,7 @@ network 192.168.0.0
 
   
 ## 📸 Topology
-![Topology](dynamic-routing-rip/topology.png)
+![Topology](https://raw.githubusercontent.com/OzgurXtream/multi-router-network/main/dynamic-routing-rip/topology.png)
+
 ## 📸 Routing Table
-![Routing](dynamic-routing-rip/rip-routing-cli.png)
+![Routing](https://raw.githubusercontent.com/OzgurXtream/multi-router-network/main/dynamic-routing-rip/rip-routing-cli.png)
