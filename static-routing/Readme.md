@@ -19,7 +19,8 @@ Two different LANs (Kadıköy and Üsküdar) are connected using static routing.
 Routing table and successful ping tests confirm connectivity between networks.
 
 ## 📸 Topology
-![Topology]https://raw.githubusercontent.com/OzgurXtream/multi-router-static-routing/refs/heads/main/Network%20.png
+![Topology](https://raw.githubusercontent.com/OzgurXtream/multi-router-network/main/static-routing/Network.png)
+
 
 ## 📸 Routing Table
-![Routing]https://raw.githubusercontent.com/OzgurXtream/multi-router-static-routing/refs/heads/main/ip%20route%20.png
+![Routing](https://raw.githubusercontent.com/OzgurXtream/multi-router-static-routing/refs/heads/main/ip%20route%20.png)
