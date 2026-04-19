@@ -23,4 +23,4 @@ Routing table and successful ping tests confirm connectivity between networks.
 
 
 ## 📸 Routing Table
-![Routing](https://raw.githubusercontent.com/OzgurXtream/multi-router-static-routing/refs/heads/main/ip%20route%20.png)
+![Routing](https://raw.githubusercontent.com/OzgurXtream/multi-router-network/main/static-routing/ip%20route.png)
