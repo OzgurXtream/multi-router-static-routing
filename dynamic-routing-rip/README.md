@@ -16,7 +16,7 @@ network 192.168.0.0
 
   
 ## 📸 Topology
-![Topology](./static-routing/topology.png)
+![Topology](./dynamic-routing-rip/topology.png)
 
 ## 📸 Routing Table
-![Routing](./static-routing/routing.png)
+![Routing](./dynamic-routing-rip/rip-routing-cli.png)
