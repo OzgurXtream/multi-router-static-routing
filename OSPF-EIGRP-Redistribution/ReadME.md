@@ -18,10 +18,7 @@ This section shows how two different routing protocols (OSPF and EIGRP) communic
 
 ## 🖼 Topology
 
-[![Topology](OSPF-EIGRP-Redistribution/topology.png)
-](https://media.licdn.com/dms/image/v2/D4D22AQEybT1QekWarg/feedshare-shrink_1280/B4DZ3PF_YIG8AQ-/0/1777295947575?e=1778716800&v=beta&t=nbOVyyWAQmP9e9kZeC02bUNxifPgKcbNahbf3bGrXWY)
----
-
+![Topology](https://raw.githubusercontent.com/OzgurXtream/multi-router-network/main/dynamic-routing-rip/topology.png)
 ## 🎯 Goal of the Project
 
 - Understand routing protocol behavior
