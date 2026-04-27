@@ -3,9 +3,6 @@
 This project demonstrates different routing protocols and their interaction in Cisco Packet Tracer.
 
 ## 📌 Contents
-
-- Static Routing Configuration
-- RIP Dynamic Routing
 - OSPF & EIGRP Redistribution
 
 ---
