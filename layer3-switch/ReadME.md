@@ -22,7 +22,5 @@ ip routing
 ![Topology](https://github.com/OzgurXtream/multi-router-network/blob/main/layer3-switch/L3_Topology.png?raw=true)
 
 ## 📸 Configuration
-![Config](./config.png)
+![Config](https://github.com/OzgurXtream/multi-router-network/blob/main/layer3-switch/L3_config.png?raw=true)
 
-## 📸 Test
-![Test](./test.png)
