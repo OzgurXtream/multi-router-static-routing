@@ -16,7 +16,7 @@ ip address 192.168.2.1 255.255.255.0
 
 
 ## 📸 Topology
-![Topology](https://github.com/OzgurXtream/multi-router-network/blob/main/OSPF-EIGRP-Redistribution/Topology.png)
+![Topology](https://github.com/OzgurXtream/multi-router-network/blob/main/router-on-a-stick/L3_Topology.png?raw=true)  
 
 ## 📸 Configuration
 ![Config](./config.png)
