@@ -1,3 +1,22 @@
+# Networking Labs
+
+This repository contains various networking projects built using Cisco Packet Tracer.
+
+## 🔧 Topics Covered
+- Static Routing
+- RIP
+- OSPF
+- EIGRP
+- Redistribution
+- VLAN
+- Inter-VLAN Routing
+- Router on a Stick
+- Layer 3 Switching
+
+## 📂 Projects
+- multi-router network
+- dynamic routing
+- vlan & inter-vlan routing
 # Multi Router Network Project (Cisco Packet Tracer)
 
 This project is a complete network simulation built using Cisco Packet Tracer. It demonstrates routing concepts from basic static routing to dynamic routing protocols and inter-protocol redistribution.
