@@ -19,7 +19,7 @@ ip address 192.168.2.1 255.255.255.0
 ![Topology](https://github.com/OzgurXtream/multi-router-network/blob/main/router-on-a-stick/Rons_Toplogy.png?raw=true)  
 
 ## 📸 Configuration
-![Config](./config.png)
+![Config](https://github.com/OzgurXtream/multi-router-network/blob/main/router-on-a-stick/Rons_Config.png?raw=true)
 
 ## 📸 Test
 ![Test](./test.png)
